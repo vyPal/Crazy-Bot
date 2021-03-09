@@ -7,4 +7,7 @@ Steps You need to follow:
 2. Type in `npm install discord.js`
 3. Type in `npm install ms`
 4. Type in `npm install fs`
-5. Finally type `node .` or `node main.js`
+5. Type in `npm install distube`
+6. Type in `npm install ffmpeg-static`
+7. Type in `npm install @discordjs/opus`
+8. Finally type `node .` or `node main.js`
