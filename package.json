@@ -1,0 +1,21 @@
+{
+  "name": "crazy_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "!echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "crazy_bot"
+  },
+  "author": "Abdullah Kashif",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1"
+  }
+}
